@@ -105,7 +105,7 @@ author:
   name             : "Andrei-Marius Avram"
   avatar           : "assets/images/logo.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I write about my work in natural language processing and machine learning."
-  location         : "Somewhere"
+  location         : "Bucharest, Romania"
   email            :
   links:
     - label: "Email"
