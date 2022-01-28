@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /papers/
+title: "Publications"
 toc: "true"
 ---
 
