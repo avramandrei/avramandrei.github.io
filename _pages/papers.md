@@ -7,4 +7,4 @@ A more complete list of my publications is available on my [Google Scholar](http
 
 ## 2021
 
-- A.M. Avram, D. Catrina, D.C. Cercel, M. Dascalu, V. Păiș, T. Rebedea, D. Tufis, &quot;Distilling the Knowledge of Romanian BERTs using multiple teachers&quot;
+- Avram Andrei-Marius, Darius Catrina, Dumitru-Clementin Cercel, Mihai Dascălu, Traian Rebedea, Vasile Păiş and Dan Tufiş, **Distilling the Knowledge of Romanian BERTs Using Multiple Teachers**, [arXiv preprint arXiv:2112.12650](https://arxiv.org/abs/2112.12650). 
