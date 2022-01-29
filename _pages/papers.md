@@ -7,4 +7,4 @@ A more complete list of my publications could be found on my [Google Scholar](ht
 
 ## 2021
 
-<img alt="A.M. Avram, D. Catrina, D.C. Cercel, M. Dascalu, V. Păiș, T. Rebedea, D. Tufis, &quot;Distilling the Knowledge of Romanian BERTs using multiple teachers&quot;" height="80" src="/assets/images/papers/distilbertro.png" width="80"/>
+<img alt="A.M. Avram, D. Catrina, D.C. Cercel, M. Dascalu, V. Păiș, T. Rebedea, D. Tufis, &quot;Distilling the Knowledge of Romanian BERTs using multiple teachers&quot;" height="160" src="/assets/images/papers/distilbertro.png" width="160"/>
