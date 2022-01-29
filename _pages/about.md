@@ -1,5 +1,5 @@
 ---
-permalink: /papers/
-title: "Publications"
-toc: "true"
+permalink: /about/
+title: "About"
 ---
+
