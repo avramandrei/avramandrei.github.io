@@ -124,7 +124,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrei-marius-avram-80698a169/"
     - label: "Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
       url: "https://scholar.google.com/citations?user=00FWAZ0AAAAJ&hl=en"
 
 # Site Footer
