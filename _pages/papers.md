@@ -21,3 +21,7 @@ A more complete list of my publications is available on my [Google Scholar](http
 - <u>Avram Andrei-Marius</u>, Vasile Păiş, and Dan Tufiş, **Towards a Romanian end-to-end automatic speech recognition based on Deepspeech2**, In Proceedings of the Romanian Academy Series A (Proc. Rom. Acad 2020). \[[pdf](https://academiaromana.ro/sectii2002/proceedings/doc2020-4/11-Avram_Tufis.pdf)\] \[[code](https://github.com/racai-ai/RobinASR)\]
 - <u>Avram Andrei-Marius</u>, Dumitru-Clementin Cercel, and Costin Chiru, **UPB at SemEval-2020 Task 6: Pretrained Language Models for Definition Extraction**, In Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval 2020). \[[pdf](https://aclanthology.org/2020.semeval-1.97/)\] \[[code](https://github.com/avramandrei/UPB-SemEval-2020-Task-6)\]
 - Dumitrescu Stefan Daniel, and <u>Andrei-Marius Avram</u>, **Introducing RONEC-the Romanian Named Entity Corpus**, In Proceedings of the Twelfth Language Resources and Evaluation Conference (LREC 2020). \[[pdf](https://aclanthology.org/2020.lrec-1.546/)\] \[[code](https://github.com/dumitrescustefan/ronec)\]
+
+## 2018
+
+- Dumitrescu Stefan Daniel, <u>Andrei Marius Avram</u>, Luciana Morogan, and Stefan-Adrian Toma, **RoWordnet–a Python API for the Romanian WordNet**, In Proceedings of the tenth International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2018). \[[pdf](https://ieeexplore.ieee.org/abstract/document/8679089)\] \[[code](https://github.com/dumitrescustefan/RoWordNet)\]
